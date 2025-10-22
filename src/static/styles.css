@@ -50,6 +50,26 @@ section {
   max-width: 500px;
 }
 
+#activities-filters {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+#activity-search {
+  flex: 2;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+#activity-sort {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
 section h3 {
   margin-bottom: 20px;
   padding-bottom: 10px;
